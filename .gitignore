@@ -5,6 +5,8 @@ models/
 __pycache__/
 *.py[cod]
 *$py.class
+**/.DS_Store
+**/datasets/
 
 # C extensions
 *.so
