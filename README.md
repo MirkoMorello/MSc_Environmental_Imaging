@@ -8,6 +8,10 @@
   <img src="Final_Project/images/example_mask_overlay.png" alt="Drone Image Segmentation Example" width="800"/>
 </p>
 
+<p align="center">
+  <img src="docs/assets/portfolio-card.png" alt="Drone image segmentation portfolio card" width="100%">
+</p>
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
